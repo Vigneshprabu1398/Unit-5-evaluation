@@ -1,0 +1,17 @@
+h3{
+    display: flex;
+}
+button{
+    padding: 5px;
+    margin-left: 10px;
+}
+.items{
+    margin-left:40%;
+  }
+.total{
+    margin-left: 10%;
+    color: red;
+}
+h1{
+    margin-left: -70px;
+}
